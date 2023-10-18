@@ -72,6 +72,10 @@
     /* opacity: 0; */
   }
 
+.right img{
+    filter: drop-shadow(10px 10px 25px #fff);
+  }
+
   .text1 {
     color: rgb(161, 98, 163);
   }
